@@ -12,7 +12,7 @@ This repository contains a Reddit User Image Scraper that fetches user avatars f
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/reddit-user-image-scraper.git
+    git clone https://github.com/densenden/reddit-user-image-scraper.git
     cd reddit-user-image-scraper
     ```
 
