@@ -2,6 +2,8 @@
 
 This repository contains a Reddit User Image Scraper that fetches user avatars from specified subreddits. The scraped images can be used for training image classification models.
 
+<img width="734" alt="Screenshot" src="https://github.com/user-attachments/assets/ee7463b7-54a7-4f38-afba-63b90e46bafa" />
+
 ## Use Cases
 
 1. **Image Classification Model Training**: Use the scraped images to train machine learning models for image classification tasks.
@@ -35,6 +37,8 @@ This repository contains a Reddit User Image Scraper that fetches user avatars f
     ```
 
 2. Follow the prompts to enter the subreddit name and the folder name for saving the images.
+   
+<img width="1968" alt="Image Folder" src="https://github.com/user-attachments/assets/32a5333a-0d86-4075-8ce4-ef6d6fb8bf24" />
 
 ## Configuration
 
